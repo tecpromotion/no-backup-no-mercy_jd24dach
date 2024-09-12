@@ -1,0 +1,26 @@
+svg.joomladay {
+    position: fixed;
+    bottom: 2em;
+    left: 2em;
+    width: 150px;
+}
+svg.joomladay .cls-1 {
+    fill: #7ac143;
+    stroke-width: 0px;
+}
+
+.reveal h1.yellow-shadow,
+.reveal h2.yellow-shadow,
+.reveal h3.yellow-shadow,
+.reveal .yellow-shadow {
+    color: yellow;
+    text-shadow: 4px 4px 2px rgba(234, 234, 234, 1);
+}
+
+.reveal h1.white-shadow,
+.reveal h2.white-shadow,
+.reveal h3.white-shadow,
+.reveal .white-shadow {
+    color: white;
+    text-shadow: 4px 4px 2px rgba(0, 0, 0, 1);
+}
